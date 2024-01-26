@@ -2,9 +2,6 @@
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me on jaywest650@gmail.com 
+- 📫 How to reach me on jerrygasu0@gmail.com 
 
-<!---
-jwest650/jwest650 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
