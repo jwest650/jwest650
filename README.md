@@ -9,20 +9,20 @@
     ⚡ Fun fact: Listening to Music, writing Code and boxing
 # Languages and Tools
 
-HTML & CSS
-Docker
-Kubernetes
-JAVASCRIPT
-REACTJS
-Nextjs
-Typescript
-NODEJS
-EXPRESS
-GIT
-VS Code
-MONGODB
-FIREBASE
-PHP/LARAVEL    
+    HTML & CSS
+    Docker
+    Kubernetes
+    JAVASCRIPT
+    REACTJS
+    Nextjs
+    Typescript
+    NODEJS
+    EXPRESS
+    GIT
+    VS Code
+    MONGODB
+    FIREBASE
+    PHP/LARAVEL    
 
 
 
