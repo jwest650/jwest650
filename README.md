@@ -7,7 +7,6 @@
     💬 Ask me about (HTML & CSS, JAVASCRIPT, REACTJS, Nextjs, Typescript NODEJS, MARKOJS)
     📫 How to reach me:on social media @jaywest650
     ⚡ Fun fact: Listening to Music, writing Code and boxing
-    
 # Languages and Tools
 
 HTML & CSS
@@ -23,7 +22,8 @@ GIT
 VS Code
 MONGODB
 FIREBASE
-PHP / LARAVEL
+PHP/LARAVEL    
+
 
 
 
