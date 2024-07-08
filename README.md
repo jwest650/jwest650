@@ -10,7 +10,7 @@
     
     💬 Ask me about (HTML & CSS, JAVASCRIPT, REACTJS, Nextjs, Typescript NODEJS, MARKOJS)
     
-    📫 How to reach me:on social media @jaywest650
+    📫 How to reach me:on social media @jerrygasu0
     
     ⚡ Fun fact: Listening to Music, writing Code and boxing
     
